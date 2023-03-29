@@ -1,0 +1,2 @@
+# trvael-projects
+I DEVELOPED A TOUR APP USING PYTHON DJANGO
